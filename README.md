@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
    npm install
    ```
    
-4.Get OMDB_API_KEY:
+4. Get OMDB_API_KEY:
    Get your API key from [OMDB API](https://www.omdbapi.com/)
    and replace it with your omdb_api_key in /src/app.jsx
 
